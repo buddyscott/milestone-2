@@ -8,5 +8,13 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-project 1
-project 2
+https://wkcook.shinyapps.io/payroll-and-performance/
+https://github.com/westleycook
+
+https://hamaadwmehal.shinyapps.io/fp_ms_6_shiny/
+https://github.com/hamaadwmehal
+
+https://ryangraff14.shinyapps.io/milestone8/
+https://github.com/ryangraff14
+
+
