@@ -1,0 +1,12 @@
+---
+title: 'Milestone #2'
+author: "Buddy Scott"
+date: "9/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+project 1
+project 2
