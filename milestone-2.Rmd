@@ -1,20 +1,34 @@
 ---
 title: 'Milestone #2'
 author: "Buddy Scott"
-date: "9/21/2020"
+date: "9/25/2020"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-https://wkcook.shinyapps.io/payroll-and-performance/
-https://github.com/westleycook
 
-https://hamaadwmehal.shinyapps.io/fp_ms_6_shiny/
-https://github.com/hamaadwmehal
+Project #1: https://ryangraff14.shinyapps.io/milestone8/ 
 
-https://ryangraff14.shinyapps.io/milestone8/
-https://github.com/ryangraff14
+I think this project has great intentions and attempts to answer a question
+that a lot of basketball fans constantly wonder: Who won the trade? However,
+there are a few immediate I noticed. First off, the arbitrary nature of the
+starting year and the few statistics in which the model is based inevitably
+is flawed. For example, the model looks at three-point shooting percentage, 
+but does not take into account the volume with which three pointers were taken,
+if the player is great but does not attempt threes, or control for the recent
+uptick in three point shooting in the last decade or so. Secondly, it does not
+do a good job attempting to be more applicable to broader data science and
+admittedly seems to only appeal to die-hard basketball fans like myself.
+Also, the project does not explain how these complicated advanced stats 
+such as VORP and BPM are calculated. Lastly, the video could have been a lot 
+more professional, like using a screen record instead of holding a camera 
+towards your computer.
+
+
+Project #2: https://hamaadwmehal.shinyapps.io/fp_ms_6_shiny/
+
+
 
 
